@@ -1,0 +1,22 @@
+{
+  "name": "mrrgll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hearth-cards/mrrgll.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "howler": "^2.0.4",
+    "preact": "^8.2.5",
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.2",
+    "webpack": "^3.6.0"
+  }
+}
