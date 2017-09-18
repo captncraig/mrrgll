@@ -13,10 +13,13 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@types/howler": "^2.0.3",
+    "@types/underscore": "^1.8.3",
     "howler": "^2.0.4",
     "preact": "^8.2.5",
     "ts-loader": "^2.3.7",
     "typescript": "^2.5.2",
+    "underscore": "^1.8.3",
     "webpack": "^3.6.0"
   }
 }

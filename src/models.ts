@@ -5,6 +5,7 @@ export interface CardDef {
     RegImage: string;
     GoldImage: string;
     Sounds: SoundDef[];
+    Collectible: boolean;
 }
 
 export interface SoundDef{
